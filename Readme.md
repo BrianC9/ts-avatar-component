@@ -7,7 +7,7 @@ The aim with this workshop is to develop a Typescript React component following 
 Building an `<Avatar/>` component similar to the Github one.
 
 ```tsx
-<Avatar url='' />
+<Avatar url='https://github.com/BrianC9.png' />
 ```
 
 ## Requirements
